@@ -39,3 +39,14 @@ Iris Dataset (`iris.csv`)
 
 ## Conclusion
 EDA helped identify patterns, relationships, and differences among Iris flower species using statistical analysis and visualizations.
+
+## Graph Outputs
+
+### 1. Pair Plot
+![Pair Plot](1_pairplot.png)
+
+### 2. Correlation Heatmap
+![Correlation Heatmap](2_correlation_heatmap.png)
+
+### 3. Box Plot
+![Box Plot](3_boxplot.png)
